@@ -2,7 +2,7 @@
 - 👀 I’m interested in Competitive coding and Project Development
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me LinkedIn - https://www.linkedin.com/in/ganesh-nathan-68609a10b/
+- 📫 How to reach me LinkedIn - https://www.linkedin.com/in/ganesh-nathan-68609a10b/\n
                       Discord - Welf Crannel#7503
 
 <!---
