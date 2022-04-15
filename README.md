@@ -56,7 +56,7 @@
 ### 🤝🏻 Connect with Me  
 
 <p align>
-<a href="https://www.linkedin.com/in/ganesh-nathan">Linkedin</a> \
-<a href="mailto:ganeshnathan06@gmail.com">Mail</a>
+<a href="https://www.linkedin.com/in/ganesh-nathan"><img src="https://img.shields.io/badge/-Linkedin-05122A?style=flat&logo=linkedin"></a>
+<!-- <a href="mailto:ganeshnathan06@gmail.com">Mail</a> -->
 </p>
 
