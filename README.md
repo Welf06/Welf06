@@ -1,10 +1,11 @@
 ![Profile views](https://gpvc.arturio.dev/welf06) <br>
-><h2>Hey there! I'm Ganesh</h2>
+><h2>Hey there! I'm Ganesh Nathan</h2>
 ### 👨🏻‍💻 &nbsp;About Me
 
-💻 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+💻 &nbsp;Upcoming Frontend Developer.\
 🎓 &nbsp;I'm currently studying Computer Science and Engineering at the Indian Institute of Information Technology, Kottayam.\
 🕸️ &nbsp;I'm interested in Web Development.\
+📝 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 ✍️ &nbsp;In my free time, I do Competitive Programming. 
 
 <!-- <img alt="Night Coding" src="./assets/Night-Coding.gif" align="right"/> -->
