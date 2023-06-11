@@ -1,7 +1,8 @@
 <h2>Hey there! I'm Ganesh Nathan</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
-💻 &nbsp;Frontend Developer\
+💻 &nbsp;Frontend Developer, ReactJS. \
+📈 &nbsp;Helped 2 Early Stage Startups build their product.
 🎓 &nbsp;I'm currently studying Computer Science and Engineering at the Indian Institute of Information Technology, Kottayam.\
 🕸️ &nbsp;I'm interested in Web Development, Deep Learning and Software Development\
 📝 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
