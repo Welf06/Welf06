@@ -1,11 +1,11 @@
 <h2>Hey there! I'm Ganesh Nathan</h2>
-###  👨🏻‍💻 &nbsp;About Me
-### 🛠 &nbsp;Tech Stack
-💻 &nbsp;Upcoming Frontend Developer.\
+
+### 👨🏻‍💻 &nbsp;About Me
+💻 &nbsp;Frontend Developer\
 🎓 &nbsp;I'm currently studying Computer Science and Engineering at the Indian Institute of Information Technology, Kottayam.\
-🕸️ &nbsp;I'm interested in Web Development.\
+🕸️ &nbsp;I'm interested in Web Development, Deep Learning and Software Development\
 📝 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-✍️ &nbsp;In my free time, I do Competitive Programming. 
+✍️ &nbsp;In my free time, I do like to challenge mysel with challenging Leetcode questions. 
 
 <!-- <img alt="Night Coding" src="./assets/Night-Coding.gif" align="right"/> -->
 
