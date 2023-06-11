@@ -1,6 +1,6 @@
 <h2>Hey there! I'm Ganesh Nathan</h2>
 ###  👨🏻‍💻 &nbsp;About Me
-
+### 🛠 &nbsp;Tech Stack
 💻 &nbsp;Upcoming Frontend Developer.\
 🎓 &nbsp;I'm currently studying Computer Science and Engineering at the Indian Institute of Information Technology, Kottayam.\
 🕸️ &nbsp;I'm interested in Web Development.\
