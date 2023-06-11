@@ -1,5 +1,4 @@
-![Profile views](https://gpvc.arturio.dev/welf06) <br>
-><h2>Hey there! I'm Ganesh Nathan</h2>
+<h2>Hey there! I'm Ganesh Nathan</h2>
 ### 👨🏻‍💻 &nbsp;About Me
 
 💻 &nbsp;Upcoming Frontend Developer.\
